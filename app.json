@@ -11,6 +11,13 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "assets": "assets/fonts",
+    "fonts": [
+      {
+        "family": "Poppins",
+        "files": ["/Poppins/Poppins-Regular.ttf"]
+      }
+    ],
     "assetBundlePatterns": [
       "**/*"
     ],
